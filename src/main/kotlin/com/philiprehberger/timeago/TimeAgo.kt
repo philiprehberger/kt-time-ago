@@ -29,6 +29,7 @@ public fun timeAgo(
 }
 
 /** Extension: `instant.timeAgo()`. */
+@JvmName("timeAgoExt")
 public fun Instant.timeAgo(
     relativeTo: Instant = Instant.now(),
     config: TimeAgoConfig.() -> Unit = {},
