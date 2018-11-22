@@ -3,6 +3,7 @@
 [![Tests](https://github.com/philiprehberger/kt-time-ago/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-time-ago/actions/workflows/publish.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/time-ago)](https://central.sonatype.com/artifact/com.philiprehberger/time-ago)
 [![License](https://img.shields.io/github/license/philiprehberger/kt-time-ago)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Human-readable relative time formatting: 5 minutes ago, in 3 days, yesterday.
 
