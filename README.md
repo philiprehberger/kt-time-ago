@@ -1,9 +1,8 @@
 # time-ago
 
 [![Tests](https://github.com/philiprehberger/kt-time-ago/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-time-ago/actions/workflows/publish.yml)
-[![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/time-ago)](https://central.sonatype.com/artifact/com.philiprehberger/time-ago)
-[![License](https://img.shields.io/github/license/philiprehberger/kt-time-ago)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/time-ago.svg)](https://central.sonatype.com/artifact/com.philiprehberger/time-ago)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/kt-time-ago)](https://github.com/philiprehberger/kt-time-ago/commits/main)
 
 Human-readable relative time formatting: 5 minutes ago, in 3 days, yesterday.
 
@@ -61,6 +60,24 @@ Instant.now().minusSeconds(600).timeAgo() // "10 minutes ago"
 ./gradlew build      # Build JAR
 ```
 
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/kt-time-ago)
+
+🐛 [Report issues](https://github.com/philiprehberger/kt-time-ago/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/kt-time-ago/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
+
 ## License
 
-MIT
+[MIT](LICENSE)
