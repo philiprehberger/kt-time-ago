@@ -1,6 +1,6 @@
 # time-ago
 
-[![CI](https://github.com/philiprehberger/kt-time-ago/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-time-ago/actions/workflows/publish.yml)
+[![Tests](https://github.com/philiprehberger/kt-time-ago/actions/workflows/publish.yml/badge.svg)](https://github.com/philiprehberger/kt-time-ago/actions/workflows/publish.yml)
 [![Maven Central](https://img.shields.io/maven-central/v/com.philiprehberger/time-ago)](https://central.sonatype.com/artifact/com.philiprehberger/time-ago)
 [![License](https://img.shields.io/github/license/philiprehberger/kt-time-ago)](LICENSE)
 
@@ -11,9 +11,7 @@ Human-readable relative time formatting: 5 minutes ago, in 3 days, yesterday.
 ### Gradle (Kotlin DSL)
 
 ```kotlin
-dependencies {
-    implementation("com.philiprehberger:time-ago:0.1.3")
-}
+implementation("com.philiprehberger:time-ago:0.1.4")
 ```
 
 ### Maven
@@ -22,7 +20,7 @@ dependencies {
 <dependency>
     <groupId>com.philiprehberger</groupId>
     <artifactId>time-ago</artifactId>
-    <version>0.1.3</version>
+    <version>0.1.4</version>
 </dependency>
 ```
 
